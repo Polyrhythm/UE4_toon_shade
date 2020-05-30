@@ -17383,3 +17383,643 @@ Any materials which use this function will lose their connections to these funct
 [2020.05.30-08.12.18:033][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
 [2020.05.30-08.12.18:129][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
 [2020.05.30-08.12.18:448][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.05.30-08.14.43:827][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2020.05.30-08.18.50:753][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.30-08.18.50:852][495]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/outdoor_Auto7F1E975EF4380DB2941195A8672F2B004.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Autosaves/Game/maps/outdoor_Auto7.umap'
+[2020.05.30-08.18.50:856][495]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/outdoor' took 0.128
+[2020.05.30-08.18.50:856][495]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2020.05.30-08.18.50:857][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/materials/Toon_PPM] ([1] browsable assets)...
+[2020.05.30-08.18.50:976][495]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/materials/Toon_PPM.Toon_PPM]
+[2020.05.30-08.18.50:976][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/materials/Toon_PPM]
+[2020.05.30-08.18.51:025][495]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Toon_PPM_Auto74099D344419E88434CA35A9F1FF9E613.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Autosaves/Game/assets/materials/Toon_PPM_Auto7.uasset'
+[2020.05.30-08.18.51:027][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/assets/materials/ToonChar_M] ([1] browsable assets)...
+[2020.05.30-08.18.51:056][495]OBJ SavePackage:     Rendered thumbnail for [Material /Game/assets/materials/ToonChar_M.ToonChar_M]
+[2020.05.30-08.18.51:056][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/assets/materials/ToonChar_M]
+[2020.05.30-08.18.51:095][495]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/ToonChar_M_Auto7A8329AAC41D63C8807A74DB48147C1B2.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Autosaves/Game/assets/materials/ToonChar_M_Auto7.uasset'
+[2020.05.30-08.18.51:096][495]LogFileHelpers: Auto-saving content packages took 0.239
+[2020.05.30-08.37.54:603][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2020.05.30-08.38.52:395][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2020.05.30-08.39.30:342][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2020.05.30-08.39.41:490][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2020.05.30-08.39.55:159][944]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/assets/materials/Toon_PPM.Toon_PPM
+[2020.05.30-08.39.55:161][944]LogMaterial: Display: Missing cached shader map for material Toon_PPM, compiling. 
+[2020.05.30-08.39.55:554][944]LogMaterial: Display: Missing cached shader map for material Toon_PPM, compiling. 
+[2020.05.30-08.39.55:561][944]LogMaterial: Display: Missing cached shader map for material Toon_PPM, compiling. 
+[2020.05.30-08.39.55:577][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.05.30-08.39.55:577][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.05.30-08.39.55:577][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.05.30-08.39.55:577][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.30-08.39.55:577][944]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCustom_0, compiling. 
+[2020.05.30-08.39.55:579][944]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.05.30-08.39.56:570][956]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.05.30-08.39.56:755][959]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.05.30-08.39.57:580][984]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2020.05.30-08.39.57:580][984]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.05.30-08.39.57:580][984]MaterialEditorStats: Texture samplers: 5/16
+[2020.05.30-08.39.57:580][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.05.30-08.40.32:687][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.05.30-08.40.32:755][457]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/outdoor_Auto801CC696642B2C202902BBE8AFB3A3EF0.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Autosaves/Game/maps/outdoor_Auto8.umap'
+[2020.05.30-08.40.32:758][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/maps/outdoor' took 0.086
+[2020.05.30-08.40.32:758][457]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.086
+[2020.05.30-08.47.06:962][727]LogSlate: Window 'Toon_PPM' being destroyed
+[2020.05.30-08.47.06:980][727]LogSlate: Window 'Toon_PPM' being destroyed
+[2020.05.30-08.47.07:201][727]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.07:201][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-08.47.45:998][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.05.30-08.47.48:905][ 15]LogSlate: Window 'Save Content' being destroyed
+[2020.05.30-08.47.48:964][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/BlinkingCaret" FILE="../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" SILENT=true
+[2020.05.30-08.47.48:995][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/BlinkingCaret0DEB3014492DFD61ECB2CAB7E3D29331.tmp' to '../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset'
+[2020.05.30-08.47.49:011][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/materials/Char/Skirt_MI" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Char/Skirt_MI.uasset" SILENT=true
+[2020.05.30-08.47.49:044][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Skirt_MIB152CD6948435A465AD2D19D751FDB9C.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Char/Skirt_MI.uasset'
+[2020.05.30-08.47.49:120][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/materials/Char/White_MI" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Char/White_MI.uasset" SILENT=true
+[2020.05.30-08.47.49:138][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/White_MIB9FDCA78452E666A5941AD8091A55939.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Char/White_MI.uasset'
+[2020.05.30-08.47.49:151][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/materials/SkyUntoon_PPM" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/SkyUntoon_PPM.uasset" SILENT=true
+[2020.05.30-08.47.49:184][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/SkyUntoon_PPM09F13ADD4A7806325EE9FC8A2DFBC6EE.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/SkyUntoon_PPM.uasset'
+[2020.05.30-08.47.49:197][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/materials/Toon_PPM" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Toon_PPM.uasset" SILENT=true
+[2020.05.30-08.47.49:228][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Toon_PPM5C24F20B4E79A3EC367542B9119E1C3A.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/Toon_PPM.uasset'
+[2020.05.30-08.47.49:243][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/materials/ToonChar_M" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/ToonChar_M.uasset" SILENT=true
+[2020.05.30-08.47.49:279][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/ToonChar_M3186BA164E4C453F530901820BB648FD.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/materials/ToonChar_M.uasset'
+[2020.05.30-08.47.49:293][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/BODY_skin_003" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/BODY_skin_003.uasset" SILENT=true
+[2020.05.30-08.47.49:307][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/BODY_skin_0036821DAEE445BED3CBB46169A9E554DE8.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/BODY_skin_003.uasset'
+[2020.05.30-08.47.49:322][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/BODY_skin_004" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/BODY_skin_004.uasset" SILENT=true
+[2020.05.30-08.47.49:339][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/BODY_skin_0047C8F565341F870544CF7E6958DA8DA95.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/BODY_skin_004.uasset'
+[2020.05.30-08.47.49:353][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/Dress_005" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/Dress_005.uasset" SILENT=true
+[2020.05.30-08.47.49:366][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Dress_00559859A574BCFE1BB77D696B1CDBBDA9C.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/Dress_005.uasset'
+[2020.05.30-08.47.49:382][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/eye" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/eye.uasset" SILENT=true
+[2020.05.30-08.47.49:396][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/eye052E7324442EFFE47C5A66B25FDB86B3.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/eye.uasset'
+[2020.05.30-08.47.49:411][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/ha" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/ha.uasset" SILENT=true
+[2020.05.30-08.47.49:424][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/ha6A37EF53499291E42C814C84FF3B729D.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/ha.uasset'
+[2020.05.30-08.47.49:438][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/kutusita_001" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/kutusita_001.uasset" SILENT=true
+[2020.05.30-08.47.49:451][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/kutusita_0010AB2D17348A28EA94C0E1498855EE617.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/kutusita_001.uasset'
+[2020.05.30-08.47.49:465][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/P_hair" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/P_hair.uasset" SILENT=true
+[2020.05.30-08.47.49:481][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/P_hair01905B8146CD3874937B2EA4A5B5A13F.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/P_hair.uasset'
+[2020.05.30-08.47.49:495][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/PronamaChan" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/PronamaChan.uasset" SILENT=true
+[2020.05.30-08.47.49:712][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/PronamaChanA492152E4D817ABA7D67DAB61B3630B5.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/PronamaChan.uasset'
+[2020.05.30-08.47.49:746][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/PronamaChan_PhysicsAsset7BB142C54A95918A913E858EE691FEE8.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/PronamaChan_PhysicsAsset.uasset'
+[2020.05.30-08.47.49:775][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/PronamaChan_Skeleton582D09CF499754B682F20AB1547AFFA5.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/PronamaChan_Skeleton.uasset'
+[2020.05.30-08.47.49:789][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/sita" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/sita.uasset" SILENT=true
+[2020.05.30-08.47.49:801][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/sita04A609BC4958800C976D93969DC98AC0.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/sita.uasset'
+[2020.05.30-08.47.49:815][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/マテリアル_001" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/マテリアル_001.uasset" SILENT=true
+[2020.05.30-08.47.49:831][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/マテリアル_0010E5AEA1C41DADE8FE94E9694BC260948.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/マテリアル_001.uasset'
+[2020.05.30-08.47.49:846][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/mesh/chan/マテリアル_007" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/マテリアル_007.uasset" SILENT=true
+[2020.05.30-08.47.49:859][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/マテリアル_0079BFA48594A7C3D5F7A842BA7E2E535EF.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/mesh/chan/マテリアル_007.uasset'
+[2020.05.30-08.47.49:873][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/b" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/b.uasset" SILENT=true
+[2020.05.30-08.47.49:888][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/bD77ABBD742EE477D58F1D48146C64F9B.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/b.uasset'
+[2020.05.30-08.47.49:903][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/hadashi" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/hadashi.uasset" SILENT=true
+[2020.05.30-08.47.49:941][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/hadashi24A23C9448784DC8AC58CFB834616B32.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/hadashi.uasset'
+[2020.05.30-08.47.49:954][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/kutushita" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/kutushita.uasset" SILENT=true
+[2020.05.30-08.47.50:077][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/kutushitaFC12FDF9435F01D99E0DF3B302EBC4CB.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/kutushita.uasset'
+[2020.05.30-08.47.50:100][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/nagasode" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/nagasode.uasset" SILENT=true
+[2020.05.30-08.47.50:348][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/nagasode7329512343F1C3FEB66F96B526837FDC.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/nagasode.uasset'
+[2020.05.30-08.47.50:457][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/pronama_longskirt69F8750B4F4E7558296CACB48787147F.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/pronama_longskirt.uasset'
+[2020.05.30-08.47.50:474][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/rim3" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/rim3.uasset" SILENT=true
+[2020.05.30-08.47.50:489][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/rim393EEF4624A9DC831153CF3A90E0F0121.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/rim3.uasset'
+[2020.05.30-08.47.50:505][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/sp4" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/sp4.uasset" SILENT=true
+[2020.05.30-08.47.50:541][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/sp413A68F9E4DA075943055A687E90DF287.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/sp4.uasset'
+[2020.05.30-08.47.50:562][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/spats" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/spats.uasset" SILENT=true
+[2020.05.30-08.47.50:587][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/spats7CA56AD442898A0A02271D9D9261685C.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/spats.uasset'
+[2020.05.30-08.47.50:611][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_Dress" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_Dress.uasset" SILENT=true
+[2020.05.30-08.47.50:838][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_Dress7B5134634BA34D5A5F2A9BAFBE12DD4D.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_Dress.uasset'
+[2020.05.30-08.47.50:854][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_eyelight" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_eyelight.uasset" SILENT=true
+[2020.05.30-08.47.50:927][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_eyelight1FCC83C146D78C42582B12B9B3968937.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_eyelight.uasset'
+[2020.05.30-08.47.50:947][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_eyes" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_eyes.uasset" SILENT=true
+[2020.05.30-08.47.51:029][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_eyes85A2E5B142E6C85B6A36C59DB72A564F.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_eyes.uasset'
+[2020.05.30-08.47.51:047][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_face" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_face.uasset" SILENT=true
+[2020.05.30-08.47.51:110][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_face7CB1D6F84F9BBE49BB8B51BAF60485E3.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_face.uasset'
+[2020.05.30-08.47.51:123][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_hair" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_hair.uasset" SILENT=true
+[2020.05.30-08.47.51:180][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_hairE47FD1674BBAEF2A4C57618FC699D189.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_hair.uasset'
+[2020.05.30-08.47.51:192][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/Tex_skin" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_skin.uasset" SILENT=true
+[2020.05.30-08.47.51:240][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/Tex_skin037BFCFC44016696182C969D32CC7E62.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/Tex_skin.uasset'
+[2020.05.30-08.47.51:255][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/chan/tokei" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/tokei.uasset" SILENT=true
+[2020.05.30-08.47.51:282][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/tokei3907CF844DCC0F37CCCFC9AEC9CC0E16.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/chan/tokei.uasset'
+[2020.05.30-08.47.51:290][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/assets/textures/toon_LUT" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/toon_LUT.uasset" SILENT=true
+[2020.05.30-08.47.51:319][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/toon_LUT44E81C6A45FFABB81F8779996FDC784D.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/assets/textures/toon_LUT.uasset'
+[2020.05.30-08.47.51:327][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/outdoor" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/maps/outdoor.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.05.30-08.47.51:340][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.30-08.47.51:391][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/outdoor77A9B4CB4BF37543946FBF8B2FE4DE4D.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/maps/outdoor.umap'
+[2020.05.30-08.47.51:446][ 15]LogFileHelpers: Saving map 'outdoor' took 0.119
+[2020.05.30-08.47.51:446][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/outdoor_BuiltData" FILE="../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/maps/outdoor_BuiltData.uasset" SILENT=true
+[2020.05.30-08.47.51:475][ 15]LogSavePackage: Moving '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Saved/outdoor_BuiltData961EF21C4C6CDBC9F0C4DC91645EDB80.tmp' to '../../../../../../Users/ryan/Documents/Unreal Projects/Toon/Content/maps/outdoor_BuiltData.uasset'
+[2020.05.30-08.47.51:625][ 15]LogSlate: Window 'Toon - Unreal Editor' being destroyed
+[2020.05.30-08.47.51:627][ 15]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.30-08.47.51:908][ 15]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2020.05.30-08.47.52:254][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Engine/EngineMaterials/BlinkingCaret.BlinkingCaret
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/assets/materials/Char/Skirt_MI.Skirt_MI
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/assets/materials/Char/White_MI.White_MI
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/materials/SkyUntoon_PPM.SkyUntoon_PPM
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/materials/Toon_PPM.Toon_PPM
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/materials/ToonChar_M.ToonChar_M
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/BODY_skin_003.BODY_skin_003
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/BODY_skin_004.BODY_skin_004
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/Dress_005.Dress_005
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/eye.eye
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/ha.ha
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/kutusita_001.kutusita_001
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/P_hair.P_hair
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating SkeletalMesh /Game/assets/mesh/chan/PronamaChan.PronamaChan
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating PhysicsAsset /Game/assets/mesh/chan/PronamaChan_PhysicsAsset.PronamaChan_PhysicsAsset
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Skeleton /Game/assets/mesh/chan/PronamaChan_Skeleton.PronamaChan_Skeleton
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/sita.sita
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/マテリアル_001.マテリアル_001
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Material /Game/assets/mesh/chan/マテリアル_007.マテリアル_007
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/b.b
+[2020.05.30-08.47.52:254][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/hadashi.hadashi
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/kutushita.kutushita
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/nagasode.nagasode
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/pronama_longskirt.pronama_longskirt
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/rim3.rim3
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/sp4.sp4
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/spats.spats
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_Dress.Tex_Dress
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_eyelight.Tex_eyelight
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_eyes.Tex_eyes
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_face.Tex_face
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_hair.Tex_hair
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/Tex_skin.Tex_skin
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/chan/tokei.tokei
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating Texture2D /Game/assets/textures/toon_LUT.toon_LUT
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating World /Game/maps/outdoor.outdoor
+[2020.05.30-08.47.52:255][ 15]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/maps/outdoor_BuiltData.outdoor_BuiltData
+[2020.05.30-08.47.52:379][ 16]Cmd: QUIT_EDITOR
+[2020.05.30-08.47.52:379][ 16]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.30-08.47.52:400][ 16]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.30-08.47.52:404][ 16]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.30-08.47.52:533][ 16]LogExit: Preparing to exit.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:024][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.05.30-08.47.53:025][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-08.47.53:088][ 16]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.30-08.47.53:130][ 16]LogExit: Editor shut down
+[2020.05.30-08.47.53:132][ 16]LogExit: Transaction tracking system shut down
+[2020.05.30-08.47.53:538][ 16]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002A490C03B00), frame # 462016
+[2020.05.30-08.47.53:538][ 16]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A490BF7D80), frame # 462016
+[2020.05.30-08.47.53:540][ 16]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A490CA0400), frame # 462016
+[2020.05.30-08.47.53:653][ 16]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A54F55A700), frame # 462016
+[2020.05.30-08.47.53:653][ 16]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A483727400), frame # 462016
+[2020.05.30-08.47.53:801][ 16]LogExit: Object subsystem successfully closed.
+[2020.05.30-08.47.53:879][ 16]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.30-08.47.54:098][ 16]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (798)
+[2020.05.30-08.47.54:098][ 16]LogModuleManager: Shutting down and abandoning module TextureEditor (796)
+[2020.05.30-08.47.54:099][ 16]LogModuleManager: Shutting down and abandoning module NewLevelDialog (794)
+[2020.05.30-08.47.54:099][ 16]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (792)
+[2020.05.30-08.47.54:099][ 16]LogModuleManager: Shutting down and abandoning module SceneOutliner (790)
+[2020.05.30-08.47.54:099][ 16]LogModuleManager: Shutting down and abandoning module AddContentDialog (788)
+[2020.05.30-08.47.54:106][ 16]LogModuleManager: Shutting down and abandoning module WidgetCarousel (787)
+[2020.05.30-08.47.54:107][ 16]LogModuleManager: Shutting down and abandoning module EditorWidgets (784)
+[2020.05.30-08.47.54:107][ 16]LogModuleManager: Shutting down and abandoning module CollectionManager (782)
+[2020.05.30-08.47.54:108][ 16]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (780)
+[2020.05.30-08.47.54:108][ 16]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.05.30-08.47.54:110][ 16]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.05.30-08.47.54:110][ 16]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.05.30-08.47.54:111][ 16]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.05.30-08.47.54:114][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.05.30-08.47.54:115][ 16]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.05.30-08.47.54:115][ 16]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.05.30-08.47.54:115][ 16]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.05.30-08.47.54:116][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.05.30-08.47.54:116][ 16]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.05.30-08.47.54:117][ 16]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.05.30-08.47.54:117][ 16]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.05.30-08.47.54:118][ 16]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.05.30-08.47.54:118][ 16]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.05.30-08.47.54:118][ 16]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.05.30-08.47.54:122][ 16]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.05.30-08.47.54:123][ 16]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.05.30-08.47.54:131][ 16]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.05.30-08.47.54:133][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.05.30-08.47.54:133][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.05.30-08.47.54:133][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.05.30-08.47.54:133][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.05.30-08.47.54:133][ 16]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.05.30-08.47.54:134][ 16]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.05.30-08.47.54:135][ 16]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.05.30-08.47.54:136][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.05.30-08.47.54:137][ 16]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.05.30-08.47.54:137][ 16]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.05.30-08.47.54:137][ 16]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.05.30-08.47.54:138][ 16]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.05.30-08.47.54:139][ 16]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.05.30-08.47.54:139][ 16]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.05.30-08.47.54:139][ 16]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.05.30-08.47.54:139][ 16]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.05.30-08.47.54:141][ 16]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.05.30-08.47.54:141][ 16]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.05.30-08.47.54:142][ 16]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.05.30-08.47.54:142][ 16]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.05.30-08.47.54:142][ 16]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.05.30-08.47.54:143][ 16]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.05.30-08.47.54:143][ 16]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.05.30-08.47.54:143][ 16]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.05.30-08.47.54:146][ 16]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.05.30-08.47.54:148][ 16]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.05.30-08.47.54:150][ 16]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.05.30-08.47.54:158][ 16]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.05.30-08.47.54:160][ 16]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.05.30-08.47.54:160][ 16]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.05.30-08.47.54:160][ 16]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.05.30-08.47.54:160][ 16]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.05.30-08.47.55:709][ 16]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.05.30-08.47.55:709][ 16]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.05.30-08.47.55:709][ 16]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.05.30-08.47.55:709][ 16]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.05.30-08.47.55:709][ 16]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.05.30-08.47.55:734][ 16]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.05.30-08.47.55:736][ 16]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.05.30-08.47.55:737][ 16]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.05.30-08.47.55:737][ 16]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.05.30-08.47.55:738][ 16]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.05.30-08.47.55:740][ 16]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.05.30-08.47.55:742][ 16]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.05.30-08.47.55:743][ 16]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.05.30-08.47.55:743][ 16]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.05.30-08.47.55:744][ 16]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.05.30-08.47.55:745][ 16]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.05.30-08.47.55:745][ 16]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.05.30-08.47.55:745][ 16]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.05.30-08.47.55:746][ 16]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.05.30-08.47.55:751][ 16]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.05.30-08.47.55:752][ 16]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.05.30-08.47.55:754][ 16]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.05.30-08.47.55:755][ 16]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.05.30-08.47.55:756][ 16]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.05.30-08.47.55:757][ 16]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.05.30-08.47.55:759][ 16]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.05.30-08.47.55:792][ 16]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.05.30-08.47.55:793][ 16]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.05.30-08.47.55:794][ 16]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.05.30-08.47.55:797][ 16]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.05.30-08.47.55:797][ 16]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.05.30-08.47.55:797][ 16]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.05.30-08.47.55:797][ 16]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.05.30-08.47.55:799][ 16]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.05.30-08.47.55:800][ 16]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.05.30-08.47.55:801][ 16]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.05.30-08.47.55:801][ 16]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.05.30-08.47.55:804][ 16]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.05.30-08.47.55:804][ 16]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.05.30-08.47.55:804][ 16]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.05.30-08.47.55:805][ 16]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.05.30-08.47.55:805][ 16]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.05.30-08.47.55:805][ 16]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.05.30-08.47.55:806][ 16]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.05.30-08.47.55:827][ 16]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.05.30-08.47.55:827][ 16]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.05.30-08.47.55:828][ 16]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.05.30-08.47.55:830][ 16]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.05.30-08.47.55:830][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.05.30-08.47.55:830][ 16]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.05.30-08.47.55:831][ 16]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.05.30-08.47.55:833][ 16]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.05.30-08.47.55:833][ 16]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.05.30-08.47.55:833][ 16]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.05.30-08.47.55:833][ 16]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.05.30-08.47.55:890][ 16]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.05.30-08.47.55:892][ 16]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.05.30-08.47.55:892][ 16]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.05.30-08.47.55:892][ 16]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.05.30-08.47.55:893][ 16]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.05.30-08.47.55:894][ 16]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.05.30-08.47.55:895][ 16]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.05.30-08.47.55:896][ 16]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.05.30-08.47.55:896][ 16]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.05.30-08.47.55:896][ 16]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.05.30-08.47.55:897][ 16]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.05.30-08.47.55:898][ 16]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.05.30-08.47.55:901][ 16]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.05.30-08.47.55:901][ 16]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.05.30-08.47.55:902][ 16]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.05.30-08.47.55:902][ 16]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.05.30-08.47.55:903][ 16]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.05.30-08.47.55:903][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.05.30-08.47.55:903][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.05.30-08.47.55:903][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.05.30-08.47.55:904][ 16]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.05.30-08.47.55:905][ 16]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.05.30-08.47.55:906][ 16]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.05.30-08.47.55:906][ 16]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.05.30-08.47.55:908][ 16]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.05.30-08.47.55:908][ 16]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.05.30-08.47.55:909][ 16]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.05.30-08.47.55:909][ 16]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.05.30-08.47.55:911][ 16]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.05.30-08.47.55:911][ 16]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.05.30-08.47.55:911][ 16]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.05.30-08.47.55:911][ 16]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.05.30-08.47.55:911][ 16]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.05.30-08.47.55:912][ 16]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.05.30-08.47.55:913][ 16]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.05.30-08.47.55:913][ 16]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.05.30-08.47.55:915][ 16]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.05.30-08.47.55:917][ 16]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.05.30-08.47.55:919][ 16]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.05.30-08.47.55:919][ 16]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.05.30-08.47.55:920][ 16]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.05.30-08.47.55:923][ 16]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.05.30-08.47.56:023][ 16]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.05.30-08.47.56:125][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.05.30-08.47.56:125][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.05.30-08.47.56:126][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.05.30-08.47.56:126][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.05.30-08.47.56:126][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.05.30-08.47.56:127][ 16]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.30-08.47.56:127][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.05.30-08.47.56:127][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.05.30-08.47.56:127][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.05.30-08.47.56:128][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.05.30-08.47.56:128][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.05.30-08.47.56:129][ 16]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.30-08.47.56:129][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.05.30-08.47.56:130][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.05.30-08.47.56:130][ 16]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.05.30-08.47.56:130][ 16]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.05.30-08.47.56:130][ 16]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.05.30-08.47.56:132][ 16]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.05.30-08.47.56:132][ 16]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.05.30-08.47.56:136][ 16]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.05.30-08.47.56:138][ 16]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.05.30-08.47.56:142][ 16]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.05.30-08.47.56:143][ 16]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.05.30-08.47.56:144][ 16]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.05.30-08.47.56:144][ 16]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.05.30-08.47.56:145][ 16]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.05.30-08.47.56:145][ 16]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.05.30-08.47.56:146][ 16]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.05.30-08.47.56:146][ 16]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.05.30-08.47.56:146][ 16]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.05.30-08.47.56:147][ 16]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.05.30-08.47.56:163][ 16]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.05.30-08.47.56:163][ 16]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.05.30-08.47.56:163][ 16]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.05.30-08.47.56:163][ 16]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.05.30-08.47.56:163][ 16]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.05.30-08.47.56:165][ 16]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.05.30-08.47.56:165][ 16]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.05.30-08.47.56:165][ 16]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.05.30-08.47.56:165][ 16]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.05.30-08.47.56:166][ 16]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.05.30-08.47.56:167][ 16]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.05.30-08.47.56:167][ 16]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.05.30-08.47.56:169][ 16]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.05.30-08.47.56:169][ 16]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.05.30-08.47.56:170][ 16]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.05.30-08.47.56:171][ 16]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.05.30-08.47.56:172][ 16]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.05.30-08.47.56:173][ 16]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.05.30-08.47.56:173][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.05.30-08.47.56:176][ 16]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.05.30-08.47.56:179][ 16]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.05.30-08.47.56:182][ 16]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.05.30-08.47.56:183][ 16]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.05.30-08.47.56:184][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.05.30-08.47.56:186][ 16]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.05.30-08.47.56:188][ 16]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.05.30-08.47.56:191][ 16]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.05.30-08.47.56:198][ 16]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.05.30-08.47.56:198][ 16]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.05.30-08.47.56:199][ 16]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.05.30-08.47.56:199][ 16]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.05.30-08.47.56:200][ 16]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.05.30-08.47.56:200][ 16]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.05.30-08.47.56:201][ 16]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.05.30-08.47.56:201][ 16]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.05.30-08.47.56:204][ 16]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.05.30-08.47.56:205][ 16]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.05.30-08.47.56:206][ 16]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.05.30-08.47.56:206][ 16]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.05.30-08.47.56:206][ 16]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.05.30-08.47.56:206][ 16]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.05.30-08.47.56:207][ 16]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.05.30-08.47.56:208][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.05.30-08.47.56:208][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.05.30-08.47.56:208][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.05.30-08.47.56:208][ 16]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.05.30-08.47.56:209][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.05.30-08.47.56:209][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.05.30-08.47.56:209][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.05.30-08.47.56:209][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.05.30-08.47.56:211][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.05.30-08.47.56:211][ 16]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.05.30-08.47.56:211][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.05.30-08.47.56:211][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.05.30-08.47.56:212][ 16]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.05.30-08.47.56:228][ 16]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.05.30-08.47.56:238][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.05.30-08.47.56:238][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.05.30-08.47.56:238][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.05.30-08.47.56:239][ 16]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.05.30-08.47.56:239][ 16]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.05.30-08.47.56:240][ 16]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.05.30-08.47.56:240][ 16]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.05.30-08.47.56:240][ 16]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.05.30-08.47.56:240][ 16]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.05.30-08.47.56:245][ 16]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.05.30-08.47.56:275][ 16]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.05.30-08.47.56:275][ 16]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.05.30-08.47.56:275][ 16]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.05.30-08.47.56:275][ 16]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.05.30-08.47.56:277][ 16]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.05.30-08.47.56:277][ 16]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.05.30-08.47.56:278][ 16]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.05.30-08.47.56:279][ 16]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.05.30-08.47.56:280][ 16]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.05.30-08.47.56:280][ 16]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.05.30-08.47.56:280][ 16]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.05.30-08.47.56:281][ 16]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.05.30-08.47.56:282][ 16]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.05.30-08.47.56:282][ 16]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.05.30-08.47.56:282][ 16]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.30-08.47.56:282][ 16]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.05.30-08.47.56:283][ 16]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.05.30-08.47.56:283][ 16]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.05.30-08.47.56:283][ 16]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.05.30-08.47.56:283][ 16]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.05.30-08.47.56:289][ 16]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.05.30-08.47.56:290][ 16]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.05.30-08.47.56:326][ 16]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.05.30-08.47.56:326][ 16]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.30-08.47.56:326][ 16]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB8A5E823-47AE-D8D5-1CFC-CBB3EAC08235%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.0-13144385%2B%2B%2BUE4%2BRelease-4.25&UserID=ec1daf9d4e4e155282772b90fb905eb2%7Ce0dfa366755c4c3cb2ddd877b127dddc%7C4101aa79-786d-4221-b19e-28d2e6f6f34b&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.30-08.47.56:340][ 16]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.05.30-08.47.56:351][ 16]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.05.30-08.47.56:357][ 16]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.05.30-08.47.56:358][ 16]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.05.30-08.47.56:358][ 16]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.05.30-08.47.56:359][ 16]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.05.30-08.47.56:359][ 16]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.30-08.47.56:359][ 16]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.30-08.47.56:359][ 16]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.30-08.47.56:359][ 16]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.30-08.47.56:360][ 16]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.30-08.47.56:361][ 16]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.30-08.47.56:361][ 16]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.30-08.47.56:361][ 16]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.30-08.47.56:362][ 16]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.30-08.47.56:363][ 16]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.30-08.47.56:367][ 16]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.30-08.47.56:367][ 16]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.30-08.47.56:367][ 16]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.30-08.47.56:367][ 16]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.30-08.47.56:375][ 16]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.30-08.47.56:375][ 16]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.30-08.47.56:375][ 16]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.30-08.47.56:375][ 16]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.30-08.47.56:376][ 16]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.30-08.47.56:376][ 16]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.30-08.47.56:376][ 16]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.30-08.47.56:376][ 16]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.30-08.47.56:377][ 16]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.30-08.47.56:377][ 16]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.30-08.47.56:377][ 16]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.30-08.47.56:380][ 16]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.30-08.47.56:381][ 16]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.05.30-08.47.56:422][ 16]LogD3D11RHI: Shutdown
+[2020.05.30-08.47.56:422][ 16]LogD3D11RHI: CleanupD3DDevice
+[2020.05.30-08.47.56:503][ 16]LogExit: Exiting.
+[2020.05.30-08.47.56:555][ 16]Log file closed, 05/30/20 17:47:56
